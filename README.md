@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander-webov
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React, Redux 
+- 🌱 I am currently working at WIldberries html coder
 - 📫 How to reach me ...
 
 <!---
